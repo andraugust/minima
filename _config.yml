@@ -27,3 +27,4 @@ exclude:
   - Gemfile.lock
 
 site.url: https://andraugust.com
+site.baseurl: '/'
