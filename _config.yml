@@ -26,5 +26,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-site.url: https://andraugust.com
-site.baseurl: '/'
+baseurl: /project-name
