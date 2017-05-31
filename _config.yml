@@ -26,4 +26,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-baseurl: /project-name
+baseurl: /
